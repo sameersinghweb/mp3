@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1514313354 source:c:\users\aryan\desktop\jukebox\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	"Class Music.h"
+	"Sound Play.h"
+	"Add Song.h"
+	"Play Songs.h"
+	"Delete Song.h"
+	"Modify Song.h"
+
+1514202839 c:\users\aryan\desktop\jukebox\class music.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1514299138 c:\users\aryan\desktop\jukebox\sound play.h
+
+1514108318 c:\users\aryan\desktop\jukebox\add record.h
+
+1514109959 c:\users\aryan\desktop\jukebox\display all records.h
+	"Search Song.h"
+
+1514108495 c:\users\aryan\desktop\jukebox\search records.h
+
+1514108856 c:\users\aryan\desktop\jukebox\delete record.h
+
+1514108998 c:\users\aryan\desktop\jukebox\modify record.h
+
+1514313550 c:\users\aryan\desktop\jukebox\search song.h
+
+1514297657 c:\users\aryan\desktop\jukebox\add song.h
+
+1514200906 c:\users\aryan\desktop\jukebox\display all song.h
+	"Search Song.h"
+
+1514313684 c:\users\aryan\desktop\jukebox\delete song.h
+
+1514313729 c:\users\aryan\desktop\jukebox\modify song.h
+
+1514299148 c:\users\aryan\desktop\jukebox\play songs.h
+	"Search Song.h"
+
+1584040823 source:d:\jukebox\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	"Class Music.h"
+	"Sound Play.h"
+	"Add Song.h"
+	"Play Songs.h"
+	"Delete Song.h"
+	"Modify Song.h"
+
+1514202840 d:\jukebox\class music.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1584040351 d:\jukebox\sound play.h
+
+1514297658 d:\jukebox\add song.h
+
+1514299150 d:\jukebox\play songs.h
+	"Search Song.h"
+
+1565556834 d:\jukebox\search song.h
+
+1565556953 d:\jukebox\delete song.h
+
+1565556953 d:\jukebox\modify song.h
+

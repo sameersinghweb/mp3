@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1513251991 source:c:\users\aryan\desktop\music player\main.cpp
+	"Class Music.h"
+
+1513252229 c:\users\aryan\desktop\music player\class music.h
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1513869437 source:c:\users\aryan\desktop\hold\music player\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	"Class Music.h"
+	"Sound Play.h"
+	"Add Record.h"
+	"Display All Records.h"
+	"Delete Record.h"
+	"Modify Record.h"
+
+1513868845 c:\users\aryan\desktop\hold\music player\class music.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1513860311 c:\users\aryan\desktop\hold\music player\add record.h
+
+1513867161 c:\users\aryan\desktop\hold\music player\display all records.h
+	"Search Records.h"
+
+1513869363 c:\users\aryan\desktop\hold\music player\search records.h
+
+1513867974 c:\users\aryan\desktop\hold\music player\delete record.h
+
+1513867974 c:\users\aryan\desktop\hold\music player\modify record.h
+
+1513870148 c:\users\aryan\desktop\hold\music player\sound play.h
+
